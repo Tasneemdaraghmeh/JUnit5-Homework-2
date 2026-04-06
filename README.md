@@ -1,4 +1,3 @@
-JUnit5 Homework
 # JUnit5 Homework 2
 
 This repository contains my solution for Homework Assignment #2 in Software Testing and Quality Assurance.
@@ -17,7 +16,7 @@ This repository contains my solution for Homework Assignment #2 in Software Test
 ## Screenshots
 
 ### JUnit / Coverage
-![JUnit and Coverage](screenshots/junit-result%20+coverage-result.png.JPG)
+![JUnit / Coverage](screenshots/junit-result%20+coverage-result.png.JPG)
 
 ### Runs
 ![Runs](screenshots/Runs.JPG)
